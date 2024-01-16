@@ -1,1 +1,1 @@
-### This is the code of attending the signate package analysis competetion.
+### This is the code for participating in the Signate package analysis competition.
